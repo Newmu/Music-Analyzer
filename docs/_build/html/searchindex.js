@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{index:0,search:0,page:0},objtypes:{},objnames:{},filenames:["index","Music-Analyzer"],titles:["Welcome to .&#8217;s documentation!","Music-Analyzer package"],objects:{},titleterms:{convert:1,welcom:0,modul:1,submodul:1,indic:0,content:1,packag:1,music:1,analyz:1,featureextractor:1,tabl:0,document:0,metaextractor:1}})
